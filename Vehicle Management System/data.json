@@ -1,0 +1,24 @@
+{
+    "vehicles": {
+        "1001": {
+            "number": "1001",
+            "brand": "BMW",
+            "type": "Car",
+            "rent": 100000.0,
+            "Available": true
+        },
+        "1002": {
+            "number": "1002",
+            "brand": "TATA",
+            "type": "Car",
+            "rent": 70000.0,
+            "Available": false
+        }
+    },
+    "customers": {
+        "4032": {
+            "name": "Mownika",
+            "rented_vehicle": "1002"
+        }
+    }
+}
